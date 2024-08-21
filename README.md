@@ -16,3 +16,5 @@
 [fleet:theme-documentation]: TODO
 [fleet:theme-plugin-example]: https://github.com/JetBrains/fleet-sdk-gradle-plugin/tree/main/examples/theme-plugin
 [fleet:sdk-documentation]: https://github.com/JetBrains/fleet-sdk-gradle-plugin
+# fleet-theme-plugin-monokai
+# fleet-theme-plugin-monokai
