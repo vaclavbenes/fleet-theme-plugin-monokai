@@ -9,13 +9,13 @@ fleetPlugin {
 
     // STEP 1: chose an ID for your plugin, it must be unique
     //
-    // id = "your.plugin.id.here"
+     id = "monokai-basic"
 
     // STEP 2: set up the sensible metadata for your plugin
-    // metadata {
-    //     readableName = "Your plugin name here"
-    //     description = "Your plugin description here"
-    // }
+     metadata {
+         readableName = "Monokai Basic"
+         description = "classic monokai theme from vscode"
+     }
 
     fleetRuntime {
         version = libs.versions.fleet.runtime
