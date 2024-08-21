@@ -826,5 +826,9 @@
     "Selected": "#AEAEAE",
     "Punctuation": "#616B6B",
     "Border":"#353C3E"
-  }
+  },
+    "name": "",
+    "dark": false,
+    "author": "",
+    "ui": {}
 }

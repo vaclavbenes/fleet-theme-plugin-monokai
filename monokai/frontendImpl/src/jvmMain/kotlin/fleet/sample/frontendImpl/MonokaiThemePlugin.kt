@@ -12,6 +12,6 @@ class MonokaiThemePlugin : Plugin<Unit> {
     override val key: Plugin.Key<Unit> = MonokaiThemePlugin
 
     override fun ContributionScope.load(pluginScope: PluginScope) {
-        registerTheme(ThemeId(id = "monokai-basic"))
+        registerTheme(ThemeId(id = "monokai.basic.theme"))
     }
 }
