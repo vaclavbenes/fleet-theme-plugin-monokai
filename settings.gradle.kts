@@ -1,7 +1,7 @@
 rootProject.name = "fleet-theme-plugin-monokai"
 
-include(":plugin")
-include(":plugin:monokai")
+include(":monokai")
+include(":monokai:frontendImpl")
 
 pluginManagement {
     repositories {
