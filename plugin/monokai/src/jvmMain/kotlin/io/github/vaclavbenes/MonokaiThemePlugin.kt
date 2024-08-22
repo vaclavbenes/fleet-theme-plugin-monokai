@@ -1,4 +1,4 @@
-package fleet.sample.frontendImpl
+package io.github.vaclavbenes
 
 import fleet.dock.api.ThemeId
 import fleet.frontend.theme.registerTheme
