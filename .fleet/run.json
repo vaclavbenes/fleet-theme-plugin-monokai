@@ -6,6 +6,16 @@
             "workingDir": "$PROJECT_DIR$",
             "tasks": ["runFleet"],
             "args": [""],
+        },
+        {
+            "name": "fleet-theme-plugin-monokai [runFleet] continous",
+            "type": "gradle",
+            "workingDir": "$PROJECT_DIR$",
+            "tasks": ["runFleet"],
+            "args": ["-t"],
+            "initScripts": {
+                "flmapper": "ext.mapPath = { path -> path }"
+            }
         }
     ]
 }

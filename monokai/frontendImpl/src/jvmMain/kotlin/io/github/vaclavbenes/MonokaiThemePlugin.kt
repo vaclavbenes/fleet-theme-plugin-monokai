@@ -14,4 +14,6 @@ class MonokaiThemePlugin : Plugin<Unit> {
     override fun ContributionScope.load(pluginScope: PluginScope) {
         registerTheme(ThemeId(id = "monokai.basic.theme"))
     }
+
+    val test: Boolean = true
 }
