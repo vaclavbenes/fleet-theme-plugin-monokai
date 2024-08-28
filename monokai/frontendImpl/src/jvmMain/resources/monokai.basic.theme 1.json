@@ -5,24 +5,6 @@
     "theme.version": 1
   },
   "colors": {
-    "disabled": "Transparent",
-    "focusOutline": "Mauve",
-
-    "shadow.border": "Mantle",
-
-    "background.default": "Base",
-    "background.primary": "Base",
-    "background.secondary": "Mantle",
-    "background.disabled": "Transparent",
-    "background.dimmed": "Transparent",
-    "background.error": "Red",
-    "background.hovered": "Surface1",
-    "background.selected": "Surface2",
-
-    "border": "Border",
-    "border.focused": "Mauve",˚
-
-
     "@dimmed.fill": "Transparent",
     "@dimmed.text": "Overlay0",
     "@disabled.fill": "Overlay1",
@@ -35,7 +17,7 @@
     "@secondary.text": "Subtext1",
     "@selected.fill": "Blue",
     "@success.text": "Green",
-
+    "border": "Border",
     "button.@disabled.border": "Transparent",
     "button.@disabled.fill": "Overlay1",
     "button.@disabled.text": "Subtext0",
