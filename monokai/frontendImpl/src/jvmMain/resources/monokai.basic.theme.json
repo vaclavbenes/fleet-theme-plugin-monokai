@@ -627,7 +627,7 @@
         "foregroundColor": "Brink Pink"
       },
       "identifier.field": {
-        "foregroundColor": "White"
+        "foregroundColor": "Peach"
       },
       "identifier.field.static": {
         "foregroundColor": "White"
@@ -775,13 +775,13 @@
         }
       },
       "metadata": {
-        "foregroundColor": "Yellow"
+        "foregroundColor": "Turkish Turquoise"
       },
       "metadata.structTag.key.go": {
-        "foregroundColor": "Peach"
+        "foregroundColor": "Turkish Turquoise"
       },
       "metadata.structTag.value.go": {
-        "foregroundColor": "Green"
+        "foregroundColor": "Turkish Turquoise"
       },
       "number": {
         "foregroundColor": "Blue"
