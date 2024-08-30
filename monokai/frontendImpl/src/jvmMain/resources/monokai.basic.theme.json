@@ -612,7 +612,7 @@
 
 
       "identifier": {
-        "foregroundColor": "Livery Green"
+        "foregroundColor": "White"
       },
       "identifier.alias.yaml": {
         "foregroundColor": "Peach"
@@ -627,7 +627,7 @@
         "foregroundColor": "Brink Pink"
       },
       "identifier.field": {
-        "foregroundColor": "Peach"
+        "foregroundColor": "White"
       },
       "identifier.field.static": {
         "foregroundColor": "White"
@@ -645,7 +645,7 @@
         "foregroundColor": "Livery Green"
       },
       "identifier.interface": {
-        "foregroundColor": "Livery Green"
+        "foregroundColor": "Turkish Turquoise"
       },
       "identifier.method.static": {
         "foregroundColor": "Brink Pink"
