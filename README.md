@@ -1,6 +1,8 @@
 # fleet-theme-plugin-monokai
 
-Basic monokai theme implementation for fleet.
+Basic monokai theme implementation for fleet based on https://github.com/catppuccin/fleet Frape.
+
+<img src="./image/logo.jpg" width="250" height="200" />
 
 # JetBrains Fleet Theme Plugin
 Repository that provides a template to create custom themes for
@@ -14,3 +16,10 @@ Repository that provides a template to create custom themes for
 [fleet:website]: https://www.jetbrains.com/fleet/
 [fleet:theme-plugin-example]: https://github.com/JetBrains/fleet-sdk-gradle-plugin/tree/main/examples/theme-plugin
 [fleet:sdk-documentation]: https://github.com/JetBrains/fleet-sdk-gradle-plugin
+
+## Examples
+
+<img src="./image/example1.png" width="300" height="200" />
+<br>
+<br>
+<img src="./image/example2.png" width="300" height="200" />
