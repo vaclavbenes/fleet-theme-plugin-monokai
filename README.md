@@ -1,6 +1,6 @@
 # fleet-theme-plugin-monokai
 
-Basic monokai theme implementation for fleet based on https://github.com/catppuccin/fleet Frape.
+Basic monokai theme implementation for fleet, based on https://github.com/catppuccin/fleet Frape.
 
 <img src="./image/logo.jpg" width="250" height="200" />
 
@@ -20,6 +20,5 @@ Repository that provides a template to create custom themes for
 ## Examples
 
 <img src="./image/example1.png" width="300" height="200" />
-<br>
 <br>
 <img src="./image/example2.png" width="300" height="200" />
