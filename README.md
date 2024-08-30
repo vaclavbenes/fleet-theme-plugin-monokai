@@ -17,6 +17,10 @@ Repository that provides a template to create custom themes for
 [fleet:theme-plugin-example]: https://github.com/JetBrains/fleet-sdk-gradle-plugin/tree/main/examples/theme-plugin
 [fleet:sdk-documentation]: https://github.com/JetBrains/fleet-sdk-gradle-plugin
 
+## Palette
+
+<img src="./image/palette.png" width="300" height="200" />
+
 ## Examples
 
 <img src="./image/example1.png" width="300" height="200" />
