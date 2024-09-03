@@ -469,10 +469,10 @@
     },
     "textAttributes": {
       "attributeName.html": {
-        "foregroundColor": "Blue"
+        "foregroundColor": "Turkish Turquoise"
       },
       "attributeValue.html": {
-        "foregroundColor": "Green"
+        "foregroundColor": "Golden Nectar"
       },
       "boolean": {
         "foregroundColor": "Mauve"
@@ -722,7 +722,7 @@
         "foregroundColor": "Brink Pink"
       },
       "keyword.css": {
-        "foregroundColor": "Yellow"
+        "foregroundColor": "Brink Pink"
       },
       "keyword.extend.css": {
         "foregroundColor": "Red"
@@ -787,10 +787,10 @@
         "foregroundColor": "Blue"
       },
       "number.css": {
-        "foregroundColor": "Blue"
+        "foregroundColor": "Dull Lavender"
       },
       "number.unit.css": {
-        "foregroundColor": "Blue"
+        "foregroundColor": "Turkish Turquoise"
       },
       "other.html": {
         "foregroundColor": "Text"
@@ -842,10 +842,10 @@
         "stripeColor": "#e5c89066"
       },
       "propertyName.css": {
-        "foregroundColor": "Blue"
+        "foregroundColor": "White"
       },
       "propertyValue.css": {
-        "foregroundColor": "Yellow"
+        "foregroundColor": "Turkish Turquoise"
       },
       "punctuation": {
         "foregroundColor": "Surface2"
@@ -860,19 +860,19 @@
         "foregroundColor": "Surface1"
       },
       "selector.class.css": {
-        "foregroundColor": "Teal"
+        "foregroundColor": "Orange"
       },
       "selector.css": {
         "foregroundColor": "Red"
       },
       "selector.id.css": {
-        "foregroundColor": "Blue"
+        "foregroundColor": "Orange"
       },
       "selector.pseudo.css": {
-        "foregroundColor": "Teal"
+        "foregroundColor": "Turkish Turquoise"
       },
       "selector.tag.css": {
-        "foregroundColor": "Mauve"
+        "foregroundColor": "Brink Pink"
       },
       "snippet": {
         "border": {
@@ -915,11 +915,11 @@
         "foregroundColor": "Mauve"
       },
       "tagName.html": {
-        "foregroundColor": "Mauve"
+        "foregroundColor": "Brink Pink"
       },
       "transparent": {},
       "url.css": {
-        "foregroundColor": "Green"
+        "foregroundColor": "Golden Nectar"
       },
       "value.yaml": {
         "foregroundColor": "Text"
